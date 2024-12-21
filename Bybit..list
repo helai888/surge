@@ -1,27 +1,20 @@
-# NAME: Bybit
-# AUTHOR: 羡鱼
-# UPDATED: 2024-11-28 12:00:00
-# DOMAIN: 5
-# DOMAIN-KEYWORD: 12
-# TOTAL: 17
+DOMAIN,ip.sb  
+DOMAIN,ipapi.co  
+DOMAIN,ipwho.is  
+DOMAIN,ffe390afd658c19dcbt707e0597b846d.de  
+DOMAIN,ffbbbdc6d3c353211fe2ba39c9f744cd.com  
 
-DOMAIN,ip.sb,proxy
-DOMAIN,ipapi.co,proxy
-DOMAIN,ipwho.is,proxy
-DOMAIN,ffe390afd658c19dcbt707e0597b846d.de,proxy
-DOMAIN,ffbbbdc6d3c353211fe2ba39c9f744cd.com,proxy
-
-DOMAIN-KEYWORD,bybit,proxy
-DOMAIN-KEYWORD,myfin,proxy
-DOMAIN-KEYWORD,bycsi,proxy
-DOMAIN-KEYWORD,bytick,proxy
-DOMAIN-KEYWORD,byapis,proxy
-DOMAIN-KEYWORD,bycbe,proxy
-DOMAIN-KEYWORD,bybdc6,proxy
-DOMAIN-KEYWORD,byd3c3,proxy
-DOMAIN-KEYWORD,bitverse,proxy
-DOMAIN-KEYWORD,appsflyersdk,proxy
-DOMAIN-KEYWORD,geetest,proxy
-DOMAIN-KEYWORD,byabcde,proxy
+DOMAIN-KEYWORD,bybit  
+DOMAIN-KEYWORD,myfin  
+DOMAIN-KEYWORD,bycsi  
+DOMAIN-KEYWORD,bytick  
+DOMAIN-KEYWORD,byapis  
+DOMAIN-KEYWORD,bycbe  
+DOMAIN-KEYWORD,bybdc6  
+DOMAIN-KEYWORD,byd3c3  
+DOMAIN-KEYWORD,bitverse  
+DOMAIN-KEYWORD,appsflyersdk  
+DOMAIN-KEYWORD,geetest  
+DOMAIN-KEYWORD,byabcde  
 
 FINAL,proxy
