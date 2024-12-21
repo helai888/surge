@@ -1,4 +1,3 @@
-[Rule]
-DOMAIN,api.koho.ca,Proxy
-IP-CIDR,47.115.141.240/32,Proxy
-IP-CIDR,106.75.233.234/32,Proxy
+DOMAIN,api.koho.ca  
+IP-CIDR,47.115.141.240/32,no-resolve  
+IP-CIDR,106.75.233.234/32,no-resolve  
