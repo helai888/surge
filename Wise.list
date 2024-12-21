@@ -1,0 +1,6 @@
+[Rule]
+DOMAIN-SUFFIX,loki-v42zc5nx3sj7swjbm6zacmssmtcs2gck.wise.com,tag
+DOMAIN-SUFFIX,wise.com,tag
+DOMAIN-SUFFIX,api.wise.com,tag
+IP-CIDR,104.18.39.116/32,tag
+IP-CIDR,172.64.148.140/32,tag
