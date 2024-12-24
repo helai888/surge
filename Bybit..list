@@ -1,4 +1,4 @@
-[Rule]
+
 DOMAIN-SUFFIX,ip.sb,Proxy
 DOMAIN-SUFFIX,ipapi.co,Proxy
 DOMAIN-SUFFIX,ipwho.is,Proxy
