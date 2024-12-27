@@ -1,4 +1,3 @@
-[Rule]
 DOMAIN-SUFFIX,redotpay.zendesk.com,Proxy
 DOMAIN-SUFFIX,api.redotpay.com,Proxy
 IP-CIDR,223.111.122.203/32,Proxy
