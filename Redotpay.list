@@ -1,0 +1,5 @@
+DOMAIN-SUFFIX,redotpay.zendesk.com,Proxy
+DOMAIN-SUFFIX,api.redotpay.com,Proxy
+IP-CIDR,223.111.122.203/32,Proxy
+IP-CIDR,103.161.255.62/32,Proxy
+IP-CIDR,120.226.40.198/32,Proxy
